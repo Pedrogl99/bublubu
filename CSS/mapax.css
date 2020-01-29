@@ -1,0 +1,13 @@
+body { margin: 0; padding: 0; }
+#map {width: 600px; height: 400px;}
+#coordenadas {     
+    margin: 0px auto;
+    width: 40%;
+    font-size: 15px;
+}
+.pokeball { 
+    width: 10px;
+    height: 10px;
+    background-size: contain;
+    background-image: url('../imagenes/pokeball.png');
+} 
